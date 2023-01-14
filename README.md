@@ -17,3 +17,8 @@ In this the tokens from a sentence is are tagged based on parts of speech, that 
 
 #### Stop Words - 
 Stop words are a set of commonly used words in a language that are generally considered to be less important or irrelevant for natural language processing tasks. For example 'a', 'the' , 'and' don't convey significant meaning
+
+
+##### References -
+1. https://www.nltk.org/
+2. https://www.nltk.org/nltk_data/
